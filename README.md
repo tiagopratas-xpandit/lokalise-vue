@@ -1,0 +1,2 @@
+# lokalise-vue
+lokalise test
