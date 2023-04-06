@@ -1,0 +1,21 @@
+{
+    "locale": {
+        "en": "Inglês",
+        "pt": "Português"
+    },
+    "nav": {
+        "home": "Inicio",
+        "about": "Sobre"
+    },
+    "home": {
+        "header": "App em VueJS traduzida!",
+        "created_by": "Esta app usa {tool}.",
+        "num_visits": "Esta página não foi visitada :( | Esta página foi visitada {n} vez | Esta página foi visitada {n} vezes"
+    },
+    "about": {
+        "header": "Sobre nós",
+        "company": "Empresa: {company}",
+        "donations": "Quantia angariada: {donations}"
+    },
+    "new": "Novo"
+}
