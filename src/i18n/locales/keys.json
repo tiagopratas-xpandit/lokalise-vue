@@ -1,0 +1,21 @@
+{
+    "locale": {
+        "en": "",
+        "pt": ""
+    },
+    "nav": {
+        "home": "",
+        "about": ""
+    },
+    "home": {
+        "header": "",
+        "created_by": "",
+        "num_visits": ""
+    },
+    "about": {
+        "header": "",
+        "company": "",
+        "donations": "",
+        "testing": ""
+    }
+}
