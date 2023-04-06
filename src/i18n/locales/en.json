@@ -15,6 +15,7 @@
     "about": {
         "header": "About us",
         "company": "Company: {company}",
-        "donations": "Donations raised: {donations}"
+        "donations": "Donations raised: {donations}",
+        "testing": "test"
     }
 }
