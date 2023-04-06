@@ -1,0 +1,20 @@
+{
+    "locale": {
+        "en": "English",
+        "pt": "Portuguese"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About"
+    },
+    "home": {
+        "header": "VueJS app translated!",
+        "created_by": "This app uses {tool}.",
+        "num_visits": "This page hasn't been visited :( | This page has been visited {n} time | This page has been visited {n} times"
+    },
+    "about": {
+        "header": "About us",
+        "company": "Company: {company}",
+        "donations": "Donations raised: {donations}"
+    }
+}
