@@ -17,5 +17,6 @@
         "company": "Company: {company}",
         "donations": "Donations raised: {donations}",
         "testing": "test"
-    }
+    },
+    "new": "New"
 }

@@ -1,0 +1,22 @@
+{
+    "locale": {
+        "en": "",
+        "pt": ""
+    },
+    "nav": {
+        "home": "",
+        "about": ""
+    },
+    "home": {
+        "header": "",
+        "created_by": "",
+        "num_visits": ""
+    },
+    "about": {
+        "header": "Sobre nosotros",
+        "company": "",
+        "donations": "",
+        "testing": "prueba"
+    },
+    "new": "Nuevo"
+}
